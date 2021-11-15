@@ -12,6 +12,7 @@ public class Ex16 {
 		double price = sc.nextDouble();
 		System.out.print("받은돈: ");
 		double pay = sc.nextDouble();
+		
 		System.out.println("받은돈: "+pay);
 		System.out.println("상품가격: "+price);
 		System.out.println("부가세: "+(price*0.1));

@@ -15,5 +15,6 @@ public class Ex12 {
 		System.out.println("원의 넓이는 " + ((rad*rad)*3.14));
 		
 		sc.close();
+		
 	}
 }
